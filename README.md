@@ -1,2 +1,2 @@
-# ml_unnati
-This folder consists of various projects I am doing on Machine learning and Deep learning
+# A predictive model on California House Prices
+This was my first project in Machine Learning. The data set used for this project was taken from Kaggle. Here I have done some EDA to find which features actually have an impact on median house prices and then finally went on to model the data. I applied Linear Regression model at first but did not get a good result and then applied KNN Regressor which gave better result compared to Linear Regression Model. The complete code for this can be found in the code file.
